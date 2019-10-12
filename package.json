@@ -1,0 +1,8 @@
+{
+  "name": "GraphQLHapi",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/pcrodrigues0/GraphQLHapi.git",
+  "author": "Paulo César Queiroz Rodrigues",
+  "license": "MIT"
+}
